@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;my-web-edusite/src/main/resources&apos;&#x0D;&#x0A;- Original project: &apos;my-web-app&apos;&#x0D;&#x0A;- Destination element: &apos;my-web-edusite/src/main/resources&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     application-prd.properties&#x0D;&#x0A;     application-dev.properties" description="Copy files" destination="=my-web-edusite/src\/main\/resources" element1="src/main/resources/application-prd.properties" element2="src/main/resources/application-dev.properties" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1579754793202" units="0" version="1.0"/>
+</session>

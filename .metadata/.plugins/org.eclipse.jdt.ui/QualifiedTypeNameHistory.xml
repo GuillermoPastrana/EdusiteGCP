@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.softtek.web.edusite.repository.CourseRepository"/>
+<fullyQualifiedTypeName name="com.softtek.web.edusite.entity.Course"/>
+<fullyQualifiedTypeName name="com.softtek.web.edusite.service.CourseService"/>
+</qualifiedTypeNameHistroy>

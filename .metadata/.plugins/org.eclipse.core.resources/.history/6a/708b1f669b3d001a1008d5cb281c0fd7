@@ -1,0 +1,4 @@
+server.port = 8084
+
+#Custom porperties
+jacademy.app.title=Spring Boot: :Mi sitio de JAVA

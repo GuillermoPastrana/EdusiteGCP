@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\GuillermoCastro\Amatitla\templates\edusite-GCP\.metadata\.plugins\org.eclipse.jdt.core
+4053326774.index
+3489588844.index
+3622059469.index
+1602804881.index

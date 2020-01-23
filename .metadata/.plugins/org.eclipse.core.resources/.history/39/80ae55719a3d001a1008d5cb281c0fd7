@@ -1,0 +1,50 @@
+package com.softtek.web.edusite;
+
+import java.util.Optional;
+
+import org.springframework.boot.CommandLineRunner;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+import com.softtek.java.demo.entity.User;
+import com.softtek.web.edusite.entity.Course;
+
+@SpringBootApplication
+public class MyWebEdusiteApplication implements CommandLineRunner{
+
+	public static void main(String[] args) {
+		SpringApplication.run(MyWebEdusiteApplication.class, args);
+	}
+
+	@Override
+	public void run(String... args) throws Exception {
+		Course csharp = new Course();
+		csharp.setCourseName("C#");
+		csharp.setInstructor("edson.alvarez");
+		
+//		Course phyton = new Course();
+//		luis.setFirstName("Luis");
+//		luis.setLastName("Miguel");
+//		luis.setUserName("luis.miguel");
+//		
+//		Course java = new Course();
+//		martin.setFirstName("Martin");
+//		martin.setLastName("Garrix");
+//		martin.setUserName("martin.garrix");
+//
+//		Optional<User> user = userService.findByUserName("harry.potter");
+//		if (!user.isPresent()) {
+//			userService.createUser(harry);
+//		}
+//		user = userService.findByUserName("luis.miguel");
+//		if (!user.isPresent()) {
+//			userService.createUser(luis);
+//		}
+//		user = userService.findByUserName("martin.garrix");
+//		if (!user.isPresent()) {
+//			userService.createUser(martin);
+//		}
+		
+	}
+
+}

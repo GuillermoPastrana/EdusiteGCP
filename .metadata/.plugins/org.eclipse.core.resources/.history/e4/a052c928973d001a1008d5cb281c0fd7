@@ -1,0 +1,5 @@
+package com.softtek.web.edusite.repository;
+
+public class CourseRepository {
+
+}
